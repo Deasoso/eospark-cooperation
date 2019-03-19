@@ -171,6 +171,7 @@ It can be previewed here after compilation, and only a brief introduction to Eng
 | <img src="https://raw.githubusercontent.com/BlockABC/eospark-cooperation/master/dapps/img/rainbow_bay_logo.png" /> | Rainbow Bay | Rainbow Bay 充分吸取 DAPP 市场经验，致力创造一个定位于 PVP 的游戏平台. | <img src="https://raw.githubusercontent.com/BlockABC/eospark-cooperation/master/dapps/img/rainbow_bay.png" /> | https://www.rabgame.com?ref=supereospark&time=4 | game | rainbow_bay | 
 | <img src="https://raw.githubusercontent.com/BlockABC/eospark-cooperation/master/dapps/img/we_dice_logo.png" /> | WeDice | Automatic earning dice for dice owner. | <img src="https://raw.githubusercontent.com/BlockABC/eospark-cooperation/master/dapps/img/we_dice.png" /> | https://wedice.one/?ref=supereospark | game | we_dice | 
 | <img src="https://raw.githubusercontent.com/BlockABC/eospark-cooperation/master/dapps/img/higold_miner_logo.png" /> | HiGold Miner | A Proof of Stake tool for HIG token. Bancor+PoS makes cost-benefit more balanced. | <img src="https://raw.githubusercontent.com/BlockABC/eospark-cooperation/master/dapps/img/higold_miner.png" /> | https://hi.gold/miner?ref=supereospark | tool | higold_miner | 
+| <img src="https://raw.githubusercontent.com/BlockABC/eospark-cooperation/master/dapps/img/crypto_collection_coin_logo.png" /> | Crypto Commemorative Coin | The first game of collection with theme of crypto currency in the world of block chain, with featuring of mining, auction, exchanging, market value ranking, collection rewards, permanent dividends, game shares buy-back, and block chain cyclopedia. | <img src="https://raw.githubusercontent.com/BlockABC/eospark-cooperation/master/dapps/img/crypto_collection_coin.png" /> | http://www.crypto-collection.io/ | game | crypto_collection_coin | 
 
 <!-- dapp_list_end -->
 
@@ -253,6 +254,7 @@ It can be previewed here after compilation, and only a brief introduction to Eng
 | <img src="https://raw.githubusercontent.com/BlockABC/eospark-cooperation/master/partners/img/best_rate.png" /> | BestRate Payment Tool | Sell your tokens within your project | https://bestrate.org/ico-payment-tools | tool | BestRate_Payment_Tool | 
 | <img src="https://raw.githubusercontent.com/BlockABC/eospark-cooperation/master/partners/img/eos_cloud.png" /> | EOSCloud | The most convenient and fast CPU rental service | https://cpu.liebi.com | tool | EOSCloud | 
 | <img src="https://raw.githubusercontent.com/BlockABC/eospark-cooperation/master/partners/img/dapp_cpu.png" /> | DAppCPU | Fuel it to the moon | https://www.dappcpu.com | tool | DAppCPU | 
+| <img src="https://raw.githubusercontent.com/BlockABC/eospark-cooperation/master/partners/img/crypto_collection_coin.png" /> | Crypto Commemorative Coin | The first game of collection with theme of crypto currency in the world of block chain, with featuring of mining, auction, exchanging, market value ranking, collection rewards, permanent dividends, game shares buy-back, and block chain cyclopedia. | http://www.crypto-collection.io/ | tool | crypto_collection_coin | 
 
 <!-- partner_list_end -->
 
@@ -280,5 +282,6 @@ It can be previewed here after compilation, and only a brief introduction to Eng
 | <img src="https://raw.githubusercontent.com/BlockABC/eospark-cooperation/master/home-partners/img/lianan.png" /> | https://www.lianantech.com | lianan | 
 | <img src="https://raw.githubusercontent.com/BlockABC/eospark-cooperation/master/home-partners/img/firewall.png" /> | https://firewallx.io | FireWall.X | 
 | <img src="https://raw.githubusercontent.com/BlockABC/eospark-cooperation/master/home-partners/img/peckshield.png" /> | https://peckshield.com | PeckShield | 
+| <img src="https://raw.githubusercontent.com/BlockABC/eospark-cooperation/master/home-partners/img/crypto_collection_coin.png" /> | http://www.crypto-collection.io/ | crypto_collection_coin | 
 
 <!-- home_partner_list_end -->

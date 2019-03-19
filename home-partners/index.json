@@ -108,6 +108,11 @@
       "gaTag":"PeckShield",
       "link":"https://peckshield.com",
       "logo":"peckshield.png"
+    },
+    {
+      "gaTag":"crypto_collection_coin",
+      "link":"http://www.crypto-collection.io/",
+      "logo":"crypto_collection_coin.png"
     }
   ]
 ]

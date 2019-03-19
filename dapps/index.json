@@ -514,4 +514,18 @@
       "description":"HIG 通证的 PoS 挖矿工具, 创新使用 Bancor+PoS 机制来平衡挖矿的成本与收益."
     }
   }
+  ,
+  {
+    "gaTag":"crypto_collection_coin",
+    "categoriy":"game",
+    "link":"http://www.crypto-collection.io/",
+    "logo":"crypto_collection_coin_logo.png",
+    "preview":"crypto_collection_coin.png",
+    "title":"Crypto Commemorative Coin",
+    "description":"The first game of collection with theme of crypto currency in the world of block chain, with featuring of mining, auction, exchanging, market value ranking, collection rewards, permanent dividends, game shares buy-back, and block chain cyclopedia.",
+    "zh-Hans-CN":{
+      "title":"加密纪念币",
+      "description":"以加密货币为主题的去中心化收藏游戏，挖矿、拍卖、兑换、市值排名、收藏奖励、参与即成游戏股东、股份回购、区块链百科全书一应俱全."
+    }
+  }
 ]
